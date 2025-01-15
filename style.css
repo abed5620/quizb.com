@@ -1,0 +1,100 @@
+body{
+    background-color: white;
+    height: 100vh;
+    
+}
+
+
+
+
+
+
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 140px;
+    text-align: center;
+    color: blue;
+
+}
+
+
+.title{
+    align-items: center;
+}
+
+
+
+.header{
+    height: 10vh;
+    text-align: center;
+}
+
+.main{
+    height: 70vh;
+    text-align: center;
+}
+
+.footer{
+    height: 10vh;
+    text-align: center;
+}
+
+
+
+
+
+
+h2{
+    text-align: center;
+    font-size: 170px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+h4{
+    font-size: 100px;
+
+    margin-bottom: 30px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+#span4{
+    color: gray;
+}
+
+
+button{
+    height: 250px;
+    width: 250px;
+    font-size: 102px;
+    margin: auto;
+    margin-left: 30px;
+}
+
+
+#num1{
+    background-color: skyblue;
+}
+#num2{
+    background-color: orange;
+}
+#num3{
+    background-color: rgb(49, 134, 49);
+}
+
+
+.bt{
+    height: 150px;
+    width: 258px;
+    background-color: rgb(100, 100, 209);
+}
+
+
+
+h5{
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
